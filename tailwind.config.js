@@ -6,6 +6,9 @@ module.exports = {
       'ladraweuz-blue': '#01496B',
       'ladraweuz-ochre': '#D4A200',
     },
+    fontFamily: {
+      fira: ['FiraSans-Regular', 'sans-serif'],
+    },
     extend: {},
   },
   plugins: [],
