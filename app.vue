@@ -13,7 +13,7 @@
                 Moi, c’est Johanna ou <span class="text-ladraweuz-ochre">Ladraweuz</span>.<br>
                 Je suis <span class="text-ladraweuz-ochre">graphiste</span> et
                 <span class="text-ladraweuz-blue">illustratrice</span> freelance.<br>
-                J’habite à Clisson,merveilleuse ville médiévale du Hellfest !
+                J’habite à Clisson, merveilleuse ville médiévale du Hellfest !
             </p>
             <p>
                 Mon site est encore en construction...<br>
@@ -21,36 +21,41 @@
             </p>
             <p>
                 Appelez-moi si vous avez un projet de graphisme ou d’illustration, de logo, de dessin etc...<br>
-                Et retrouve moi sur les réseaux sociaux ;)
+                Et retrouvez-moi sur les réseaux sociaux ;)
             </p>
         </article>
         <section class="flex flex-col items-center mb-8">
             <div class="flex flex-row items-center gap-16">
                 <a href="" class="relative">
-                    <img src="/asset/image/mail/mail-1.svg" alt="mail" loading="lazy" class="w-16 frame1">
-                    <img src="/asset/image/mail/mail-2.svg" alt="mail" loading="lazy" class="w-16 absolute inset-0 frame2">
-                    <img src="/asset/image/mail/mail-3.svg" alt="mail" loading="lazy" class="w-16 absolute inset-0 frame3">
-                    <img src="/asset/image/mail/mail-2.svg" alt="mail" loading="lazy" class="w-16 absolute inset-0 frame4">
+                    <img src="/asset/image/mail/mail-1.svg" alt="mail" loading="lazy" 
+                        class="w-16 frame1">
+                    <img src="/asset/image/mail/mail-2.svg" alt="mail" loading="lazy"
+                        class="w-16 absolute inset-0 frame2">
+                    <img src="/asset/image/mail/mail-3.svg" alt="mail" loading="lazy"
+                        class="w-16 absolute inset-0 frame3">
+                    <img src="/asset/image/mail/mail-2.svg" alt="mail" loading="lazy"
+                        class="w-16 absolute inset-0 frame4">
                 </a>
                 <a href="" class="relative">
-                    <img src="/asset/image/tel/tel-1.svg" alt="téléphone" loading="lazy" class="w-16 frame1">
-                    <img src="/asset/image/tel/tel-2.svg" alt="téléphone" loading="lazy" class="w-16 absolute inset-0 frame2">
-                    <img src="/asset/image/tel/tel-3.svg" alt="téléphone" loading="lazy" class="w-16 absolute inset-0 frame3">
-                    <img src="/asset/image/tel/tel-2.svg" alt="téléphone" loading="lazy" class="w-16 absolute inset-0 frame4">
+                    <img src="/asset/image/tel/tel-1.svg" alt="téléphone" loading="lazy"
+                        class="w-16 frame1">
+                    <img src="/asset/image/tel/tel-2.svg" alt="téléphone" loading="lazy"
+                        class="w-16 absolute inset-0 frame2">
+                    <img src="/asset/image/tel/tel-3.svg" alt="téléphone" loading="lazy"
+                        class="w-16 absolute inset-0 frame3">
+                    <img src="/asset/image/tel/tel-2.svg" alt="téléphone" loading="lazy"
+                        class="w-16 absolute inset-0 frame4">
 
                 </a>
                 <a href="" class="relative">
-                    <img src="/asset/image/map/france-1.svg" alt="carte" loading="lazy" class="w-16 frame1">
-                    <img src="/asset/image/map/france-2.svg" alt="carte" loading="lazy" class="w-16 absolute inset-0 frame2">
-                    <img src="/asset/image/map/france-3.svg" alt="carte" loading="lazy" class="w-16 absolute inset-0 frame3">
-                    <img src="/asset/image/map/france-2.svg" alt="carte" loading="lazy" class="w-16 absolute inset-0 frame4">
-                </a>
-                <a href="" class="relative">
-                    <img src="/asset/image/facebook/facebook-1.svg" alt="facebook" loading="lazy" class="w-16 frame1">
-                    <img src="/asset/image/facebook/facebook-2.svg" alt="facebook" loading="lazy" class="w-16 absolute inset-0 frame2">
-                    <img src="/asset/image/facebook/facebook-3.svg" alt="facebook" loading="lazy" class="w-16 absolute inset-0 frame3">
-                    <img src="/asset/image/facebook/facebook-2.svg" alt="facebook" loading="lazy" class="w-16 absolute inset-0 frame4">
-
+                    <img src="/asset/image/map/france-1.svg" alt="carte" loading="lazy"
+                        class="w-16 frame1">
+                    <img src="/asset/image/map/france-2.svg" alt="carte" loading="lazy"
+                        class="w-16 absolute inset-0 frame2">
+                    <img src="/asset/image/map/france-3.svg" alt="carte" loading="lazy"
+                        class="w-16 absolute inset-0 frame3">
+                    <img src="/asset/image/map/france-2.svg" alt="carte" loading="lazy"
+                        class="w-16 absolute inset-0 frame4">
                 </a>
                 <a href="" class="relative">
                     <img src="/asset/image/instagram/instagram-1.svg" alt="instagram" loading="lazy"
@@ -61,6 +66,17 @@
                         class="w-16 absolute inset-0 frame3">
                     <img src="/asset/image/instagram/instagram-2.svg" alt="instagram" loading="lazy"
                         class="w-16 absolute inset-0 frame4">
+                </a>
+                <a href="" class="relative">
+                    <img src="/asset/image/facebook/facebook-1.svg" alt="facebook" loading="lazy"
+                        class="w-16 frame1">
+                    <img src="/asset/image/facebook/facebook-2.svg" alt="facebook" loading="lazy"
+                        class="w-16 absolute inset-0 frame2">
+                    <img src="/asset/image/facebook/facebook-3.svg" alt="facebook" loading="lazy"
+                        class="w-16 absolute inset-0 frame3">
+                    <img src="/asset/image/facebook/facebook-2.svg" alt="facebook" loading="lazy"
+                        class="w-16 absolute inset-0 frame4">
+
                 </a>
             </div>
         </section>
