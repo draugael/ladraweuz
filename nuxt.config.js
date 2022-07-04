@@ -1,7 +1,12 @@
 import { defineNuxtConfig } from 'nuxt'
 
 export default defineNuxtConfig({
-    modules: ['@nuxtjs/tailwindcss'],
+    buildModules: [
+        '@nuxtjs/tailwindcss',
+    ],
+    modules: [
+        '@nuxtjs/tailwindcss'
+    ],
     tailwindcss: {
         cssPath: '~/tailwind.css'
     }

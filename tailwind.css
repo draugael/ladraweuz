@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'FiraSans-Regular';
-    src: url('/asset/font/FiraSans-Regular.woff2') format('woff2'),
-        url('/asset/font/FiraSans-Regular.woff') format('woff'),
-        url('/asset/font/FiraSans-Regular.ttf') format('truetype')
+    src: url('~/assets/fonts/FiraSans-Regular.woff2') format('woff2'),
+        url('~/assets/fonts/FiraSans-Regular.woff') format('woff'),
+        url('~/assets/fonts/FiraSans-Regular.ttf') format('truetype');
 }
