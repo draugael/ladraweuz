@@ -1,3 +1,17 @@
+<script setup>
+const title = ref('Ladraweuz')
+const description = ref("Graphiste spécialisée dans les supports imprimés, le dessin et l'illustration, Johanna Bechereau vous présente son parcours, ses valeurs et son univers!")
+
+// This will be reactive even you change title/description above
+useHead({
+    title,
+    meta: [{
+        name: 'description',
+        content: description
+    }],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '~/assets/images/favicon.ico' }]
+})
+</script>
 <template>
     <header class="flex flex-col items-center gap-3 mt-11">
         <img src="~/assets/images/logo-ladraweuz.svg" alt="logo de Ladraweuz" loading="lazy" class="w-48">

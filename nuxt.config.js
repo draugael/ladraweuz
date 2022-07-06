@@ -5,7 +5,8 @@ export default defineNuxtConfig({
         '@nuxtjs/tailwindcss',
     ],
     modules: [
-        '@nuxtjs/tailwindcss'
+        '@nuxtjs/tailwindcss',
+        '@nuxtjs/robots',
     ],
     tailwindcss: {
         cssPath: '~/tailwind.css'
